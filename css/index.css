@@ -1,0 +1,43 @@
+/* 基础设置 */
+.container {
+    width: 100%;
+    margin: 0 auto;
+    max-width: 2880px;
+}
+
+/* #region顶部导航条star */
+.topbar {
+    position: sticky;
+    height: 60px;
+    background-color: #000;
+}
+.topbar-l img {
+    overflow: hidden;
+    padding-top: 10px;
+    padding-left: 10px;
+}
+.topbar-c {
+    font-size: 14px;
+    line-height: 60px;
+}
+.topbar-c a {
+    color: #fff;
+    padding: 0 20px;
+}
+.topbar-c a:hover {
+    color: #f60;
+}
+.topbar-c a:last-child {
+    padding-left: 0;
+}
+.topbar-c a:first-child {
+    padding-right: 10px;
+}
+
+/* #endregion顶部导航条end */
+
+/* #region-next1 */
+.next1 img {
+    width: 100%;
+}
+/* #endregion-next1 */

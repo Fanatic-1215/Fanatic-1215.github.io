@@ -1,0 +1,31 @@
+/* 基础设置 */
+.container {
+    display: flex;
+    margin: 0 auto;
+    width: 100%;
+    justify-content: space-between;
+}
+/* #region顶部导航条star */
+.topbar {
+
+}
+
+/* #endregion顶部导航条end */
+
+
+/* #region头部 */
+
+
+/* #endregion头部 */
+
+
+/* #region主导航区 */
+
+
+/* #endregion主导航区 */
+
+
+/* #region主要内容区 */
+
+
+/* #endregion主要内容区 */

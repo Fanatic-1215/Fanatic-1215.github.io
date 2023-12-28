@@ -1,0 +1,11 @@
+.next1 .content {
+    width: 300px;
+    height: 1500px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+}
+.topbar a {
+    font-size: 14px;
+    margin-left: 15px;
+}

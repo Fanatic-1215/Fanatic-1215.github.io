@@ -1,0 +1,27 @@
+.next1 .content {
+    margin-top: -60px;
+    width: 100vw;
+    height: 3350px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.topbar a {
+    font-size: 14px;
+    margin-left: 15px;
+}
+.tt {
+    width: 100vw;
+    height: 37vh;
+    background-image: url(../images/tt.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: flex
+}
+.content .p {
+    width: 96vw;
+    height: 600px;
+}
+.hid {
+    display: none;
+}
